@@ -1,6 +1,13 @@
 # fundamentos_entrega2
 Este manual describe el funcionamiento de dos archivos Java: `GenerateInfoFiles.java` y `SalesReportGenerator.java`. Estos archivos son parte del sistema de generación de archivos de información y de informes de ventas basados en datos de aleatorios almacenados en archivos. 
 
+# Members
+## Leidy Julieth Cruz Cruz
+## Sandra Milena Fernandez Roa
+## Oscar Giobani Clavijo Gutiérrez
+## Flavio Cesar Fonseca
+## Felipe Moreno Caro 
+
 ### Versión en Español
 
 #### GenerateInfoFiles.java
